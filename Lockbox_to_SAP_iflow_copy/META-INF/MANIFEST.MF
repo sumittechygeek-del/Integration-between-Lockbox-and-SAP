@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Lockbox to SAP iflow
-Bundle-SymbolicName: Lockbox_to_SAP_iflow; singleton:=true
-Bundle-Version: 1.0.4
+Bundle-Name: Lockbox to SAP iflow_copy
+Bundle-SymbolicName: Lockbox_to_SAP_iflow_copy
+Bundle-Version: 1.0.5
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
@@ -28,6 +28,6 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
  el.spi,com.sap.esb.webservice.audit.log,com.sap.esb.camel.endpoint.conf
  igurator.api,com.sap.esb.camel.jdbc.idempotency.reorg,javax.sql,org.apa
  che.camel.processor.idempotent.jdbc,org.osgi.service.blueprint
-Origin-Bundle-Name: Lockbox to SAP iflow
-Origin-Bundle-SymbolicName: Lockbox_to_SAP_iflow
+Origin-Bundle-Name: Lockbox to SAP iflow_copy
+Origin-Bundle-SymbolicName: Lockbox_to_SAP_iflow_copy
 
